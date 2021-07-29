@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luanocesar
 - 👀 I’m interested in programming languages and design patterns
 - 🌱 I’m currently learning Python, C#, JavaScript, etc
-- 💞️ I’m looking to collaborate on any project you may think a fit on. I enjoy new challenges and changing enviromments
+- 💞️ I’m looking to collaborate on any project you may think I can fit on. I enjoy new challenges and changing enviromments
 - 📫 How to reach me : Twitter, Instagram, Facebook, you can look for my always id 'luanocesar'
 
 <!---
