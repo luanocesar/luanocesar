@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages and design patterns
 - 🌱 I’m currently learning Python, C#, JavaScript, React JS, Node JS
 - 💞️ I’m looking to collaborate on any project you may think I can fit on. I enjoy new challenges and changing enviromments
-- 📫 How to reach me : Twitter, Instagram, Facebook, you can look for my always id 'luanocesar'
+- 📫 How to reach me : Twitter => luanodev , Mail => contact@luano.dev
 
 <!---
 luanocesar/luanocesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
